@@ -1,7 +1,7 @@
 # Real-time Air Traffic Monitoring and Control System
-This project implements a Real-Time Air Traffic Monitoring and Control (ATC) System in C/C++, designed for execution on the QNX real-time operating system.
+This project implements a Real-Time Air Traffic Monitoring and Control (ATC) System in C/C++, designed for execution on the QNX real-time operating system x86 virtual machine.
 
-This is a simplified en-route ATC system to ensure safe, orderly aircraft movement. This involves maintaining adequate separation between aircraft, detecting potential conflicts, and responding in real time.
+This is a simplified en-route ATC system to ensure safe, orderly aircraft movement. This involves maintaining adequate separation between aircraft, detecting potential conflicts, and responding in real time using threads to ensure the proper execution of all functions.
 
 ## Features:
 ### Ensure safety:
