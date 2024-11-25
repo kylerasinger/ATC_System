@@ -6,7 +6,7 @@ This is a simplified en-route ATC system to ensure safe, orderly aircraft moveme
 ## Features:
 ### Ensure safety:
 - Monitor airspace for adequate aircraft separation (min. 1000 units vertically, 3000 units horizontally).
-- Alert controllers of potential collisions or safety violations.
+- Alert controllers of potential collisions or safety violations through inter-process communication.
 ### Provide Real-Time Visualization:
 - Periodically display aircraft positions and notify controllers of safety-critical situations.
 ### System Logging:
